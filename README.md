@@ -31,7 +31,9 @@ SpringBoot 参数校验框架
 见 <a href="https://www.yunask.cn/" target="_blank">南诏Blog</a>
 JCheck参数校验框架之创建自己的SpringBoot-Starter
 
-# 使用方法
+# 使用方法 
+
+- <a href="https://gitee.com/github-26359270/checkdemo.git" target="_blank">测试项目源码</a>
 
 # 依赖
 
