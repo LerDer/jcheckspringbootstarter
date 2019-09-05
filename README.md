@@ -16,15 +16,20 @@ SpringBoot 参数校验框架
 
 #### 安装教程
 
-1. xxxx
-2. xxxx
-3. xxxx
+1. mvn clean install
+2. 引入依赖
+```xml
+<dependency>
+   <groupId>com.ler</groupId>
+   <artifactId>jcheck-spring-boot-starter</artifactId>
+   <version>1.0.0-SNAPSHOT</version>
+</dependency>
+```
 
 #### 使用说明
 
-1. xxxx
-2. xxxx
-3. xxxx
+见 <a href="https://www.yunask.cn/" target="_blank">南诏Blog</a>
+JCheck参数校验框架之创建自己的SpringBoot-Starter
 
 #### 参与贡献
 
