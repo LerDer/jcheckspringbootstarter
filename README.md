@@ -28,8 +28,8 @@ SpringBoot 参数校验框架
 
 #### 使用说明
 
-见 <a href="https://www.yunask.cn/" target="_blank">南诏Blog</a>
-JCheck参数校验框架之创建自己的SpringBoot-Starter
+见 南诏Blog
+<a href="https://www.yunask.cn/post/84fbeef6.html" target="_blank">JCheck参数校验框架之创建自己的SpringBoot-Starter</a>
 
 # 使用方法 
 
