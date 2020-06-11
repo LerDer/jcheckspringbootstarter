@@ -13,6 +13,11 @@ public class UserFriendlyException extends RuntimeException {
 		super(message, cause);
 	}
 
+	public UserFriendlyException(String message, ErrorCode errorCode) {
+		super(message);
+		this.errorCode = errorCode.getCode();
+	}
+
 	public UserFriendlyException(Throwable cause) {
 		super(cause);
 	}

@@ -1,6 +1,5 @@
 package com.ler.jcheckspringbootstarter.util;
 
-import com.ler.jcheckspringbootstarter.config.UserFriendlyException;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.time.Instant;
